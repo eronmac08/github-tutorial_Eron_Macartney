@@ -1,19 +1,3 @@
-## github-tutorial
-Hello! This is the testing repo for 599 where students will submit their test branch 🚀
+Predicting Pacific herring spawn in the Howe Sound 
 
-Now that you're here...
-Please follow the steps below: 
-
-1. Clone the GitHub Repo to your local computer using method of choice (GitHub Desktop, command line etc.) 
-2. Create a new Branch called "LASTNAME_FIRSTNAME_branch"
-3. Publish your new Branch - say "yes I want to make this a fork" since you won't have write access to the repo
-4. Set up a file organization structure for a new project
-5. Add a README file called "README_LASTNAME_FIRSTNAME.md" and write a brief description that you could use for your 599 project - If you already have one.. Great! Make it better in some way and submit that (add a photo? Change the font? add in your contact info?)
-6. Commit changes
-7. Push Changes to remote origin
-8. Take a screenshot of your GitHub forked repo with your README and template folders 
-9. You will receive a participation grade based on the existence of this branch with your README :) 
-
-**You will receive a participation grade based on the existence of this branch with your README :)**
-
-testing commmits
+This study investigates environmental drivers, such as Sea Surface Temperature, lunar cycles, and photoperiod, that influence the timing of Pacific herring (Clupea pallasii) spawning in Howe Sound, British Columbia. Data from the Marine Stewardship Initiative (2021-2024) are used to identify correlations between these factors and spawn timing, focusing on their impact in Howe Sound. Pacific herring, known as Slhawt’ to the Squamish people, are a crucial species in the marine ecosystem, supporting the food web for marine life, including seabirds, fish, and mammals. The timing of their spawning, which aligns with plankton blooms, is vital for ecosystem health. Understanding these drivers will not only inform fisheries management but also supports the Squamish Nation’s stewardship of their traditional territories.
